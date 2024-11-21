@@ -1,4 +1,4 @@
 # prueba-repositorio
-repositoeio de prueba
+repositorio de prueba
 
 este es un repositorio de pruebas
